@@ -36,12 +36,11 @@ Test your memory skills by flipping cards and racing against the clock to find a
 - 📱 Improve mobile/small window compatibility
 - 🃏 Add more card themes and difficulty levels
 - ✨ Add animations for flipping cards
-- 🏆 Global leaderboard integration using a database (future stretch goal!)
-
+  
 ---
 
 ## 📩 Contact
-Created with love by **Shanzay Chaudhry** 💻🎨  
+Created with love by **Shanzay Chaudhry**   
 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/shanzaychaudhry)
 - [GitHub](https://github.com/shanzayc)
